@@ -2,102 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61e60bb-79b2-4e14-889e-9c840c6881d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/Cinema.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/Fajr33-Logo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/Festival.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/Gallery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/HHNews.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/Home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/IMG15550937.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Koodak.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Koodak.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Mehr.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Mehr.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/MenuArrows.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/Mihman-Darim-New-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/Mihman-daarim.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Mitra.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Mitra.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/News.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Roya.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Roya.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/RoyaBold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/RoyaBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/SCOM.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/SPS.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/SourehCinema_Logo_Text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Yekan.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Yekan.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Zar.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/fonts/Zar.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/behnoosh-tabatabayee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/body_bg2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/farda-zhenev.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/hasan-shokoohi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/header.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/hosein-shahabi1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-address.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-digg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-email-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-vimeo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/icon-youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/kheradmand1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/mahmood-azizi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/mihman-darim11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/neshast-mihman1-300x180.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/nik-bin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/searchBox-left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/searchBox-middle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/searchBox-right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/searchMagnet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/img/topBar_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/TOC.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/crossdomain.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/extend.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/html.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/js/vendor/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/js/jquery-2.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/js.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/misc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/js/vendor/modernizr-2.6.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tamrin 2/doc/usage.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mohandesi Internet.iws" />
@@ -123,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tamrin 2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.677643" vertical-offset="1190" max-vertical-offset="1870">
+            <state vertical-scroll-proportion="-15.038462" vertical-offset="1190" max-vertical-offset="1870">
               <caret line="206" column="40" selection-start-line="206" selection-start-column="40" selection-end-line="206" selection-end-column="40" />
               <folding>
                 <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -192,6 +97,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41694915" vertical-offset="94" max-vertical-offset="731">
+              <caret line="20" column="80" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+              <folding>
+                <element signature="n#style#0;n#section#1;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tamrin 2/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -232,11 +149,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/M_I.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Tamrin 1/css/main.css" />
         <option value="$PROJECT_DIR$/Tamrin 2/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/Tamrin 2/css/main.css" />
         <option value="$PROJECT_DIR$/Tamrin 2/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -288,20 +205,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Mohandesi Internet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mohandesi Internet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mohandesi Internet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tamrin 2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -516,15 +419,23 @@
       <option name="number" value="Default" />
       <updated>1417425161003</updated>
     </task>
+    <task id="LOCAL-00001" summary="tamrin 2 (bootstrap)">
+      <created>1418372877402</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1418372877402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19180088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19180088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -559,6 +470,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="tamrin 2 (bootstrap)" />
+    <option name="LAST_COMMIT_MESSAGE" value="tamrin 2 (bootstrap)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -705,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23050848" vertical-offset="0" max-vertical-offset="714">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tamrin 1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.1542463" vertical-offset="2601" max-vertical-offset="4930">
@@ -791,7 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tamrin 2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.677643" vertical-offset="1190" max-vertical-offset="1870">
+        <state vertical-scroll-proportion="-15.038462" vertical-offset="1190" max-vertical-offset="1870">
           <caret line="206" column="40" selection-start-line="206" selection-start-column="40" selection-end-line="206" selection-end-column="40" />
           <folding>
             <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -852,6 +758,16 @@
             <element signature="n#style#0;n#li#0;n#ul#0;n#nav#1;n#section#0;n#section#1;n#footer#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#nav#1;n#section#0;n#section#1;n#footer#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#2;n#ul#0;n#nav#1;n#section#0;n#section#1;n#footer#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41694915" vertical-offset="94" max-vertical-offset="731">
+          <caret line="20" column="80" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#section#1;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
