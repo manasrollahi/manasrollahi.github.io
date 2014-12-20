@@ -632,6 +632,21 @@ footer #bottomFooter .container nav ul li a:hover{
 #art{
 	width: 100%;
 }
+#art a{
+	color: #fff;
+	margin: 0;
+	padding: -1em 0;
+}
+
+#art p{
+	color: #F24F00;
+	margin: 0;
+	padding: -1em 0;
+}
+#art img{
+	margin: 0;
+	padding: -1em 0;
+}
 
 #art section h1{
     text-align: right;
