@@ -128,14 +128,16 @@ body {
 		text-align: left;
 	}
 
-
 a {outline: 0;}
+
 a img {border: 0px; text-decoration: none;}
+
 a:link, a:visited {
 	color: #09c;
 	padding: 0 1px;
 	text-decoration: none;
 }
+
 a:hover, a:active {
 	text-decoration: none;
 	text-shadow: 1px 1px 1px #333;
@@ -186,12 +188,6 @@ footer #topFooter
 	text-align:right;
 	color:#868686
 }
-
-/*footer #topFooter .container*/
-/*.section{*/
-	/*float:right;*/
-	/*margin-left:20px*/
-/*}*/
 
 footer #topFooter .container
 nav#footerNav{
@@ -399,8 +395,6 @@ a{
 	background-position:right -16px
 }
 
-
-
 footer #bottomFooter
 .container{
 	max-width:1000px;
@@ -463,7 +457,6 @@ footer #bottomFooter .container nav ul li a:hover{
 	visibility:hidden;
 	width:0
 }
-
 
 #logoSection{
     margin-top: 40px;
@@ -576,23 +569,28 @@ footer #bottomFooter .container nav ul li a:hover{
 	color:#FFF
 }
 
-
 #sec{
-    padding-top: 11em;
-    padding-bottom: 8em;
+    padding-top: 5em;
+    padding-bottom: 2em;
 	padding-left: 2em;
 	padding-right: 2em;
     /*margin: 0 auto;*/
-	height: 1800px;
+	/*height: 1800px;*/
+	background-image: url("../img/body_bg2.gif");
     background-color:#fff;
 }
+
 #sec>section{
-    /*width: 60%;*/
+	margin: 0;
+	padding: 0;
+	/*position:relative;*/
+	/*z-index:9;*/
+	/*overflow:auto;*/
+	background-color:#EBEBEB;
     height: 100%;
-    /*float: right;*/
-	background-color: #EBEBEB;
     display: inline-block;
 }
+
 #sec aside{
     background-color: #be2601;
      /*width: 12%;*/
@@ -635,12 +633,6 @@ footer #bottomFooter .container nav ul li a:hover{
 	width: 100%;
 }
 
-/*#art>section{*/
-    /*float: right;*/
-    /*clear: both;*/
-    /*width: 100%;*/
-/*}*/
-
 #art section h1{
     text-align: right;
     background-color: #242424;
@@ -681,7 +673,6 @@ footer #bottomFooter .container nav ul li a:hover{
 	border:none
 }
 
-
 #menuSection #mainMenuWrapper
 section.menuItem{
 	width:150px;
@@ -706,8 +697,6 @@ section{
 	background-position:center
 }
 
-
-
 #menuSection #mainMenuWrapper section.menuItem
 img.txt{
 	height:20px;
@@ -720,12 +709,12 @@ section{
 	height:11px;
 	margin-top:18px;
 	float:left;
-	margin-left:10px;
+	/*margin-left:10px;*/
 	background-image:url("../img/MenuArrows.gif");
 	background-position:top
 }
 #top_art{
-    margin: auto auto;
+    /*margin: auto auto;*/
     padding: .5em .5em;
     background-color: #fff
 }
@@ -746,7 +735,7 @@ section{
     float: right;
     margin: .5em;
     width: 20%;
-    height: 100px;
+    height: 100%;
 }
 
 
