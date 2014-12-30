@@ -1,0 +1,945 @@
+/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images, videos, audio and canvas and the bottom of
+ * their containers: h5bp.com/i/440
+ */
+
+audio,
+canvas,
+img,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Browse Happy prompt
+   ========================================================================== */
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+@font-face{
+    font-family:'Koodak'; 
+    src: url('../fonts/Koodak.ttf') format('TrueTypefont'),url('../fonts/Koodak.otf') format('OpenTypefont');
+    font-family: 'Mehr';
+    src: url('../fonts/Mehr.ttf') format('TrueTypefont'),url('../fonts/Mehr.otf') format('OpenTypefont');
+    font-family: 'Mitra';
+    src: url('../fonts/Mitra.ttf') format('TrueTypefont'),url('../fonts/Mitra.otf') format('OpenTypefont');
+    font-family: 'Roya';
+    src: url('../fonts/Roya.ttf') format('TrueTypefont'),url('../fonts/Roya.otf') format('OpenTypefont');
+    font-family: 'RoyaBold';
+    src: url('../fonts/RoyaBold.ttf') format('TrueTypefont'),url('../fonts/RoyaBold.otf') format('OpenTypefont');
+    font-family: 'Yekan';
+    src: url('../fonts/Yekan.ttf') format('TrueTypefont'),url('../fonts/Yekan.otf') format('OpenTypefont');
+    font-family: 'Zar';
+    src: url('../fonts/Zar.ttf') format('TrueTypefont'),url('../fonts/Zar.otf') format('OpenTypefont');
+}
+
+
+
+body {
+
+	background-image: url("../img/body_bg2.gif");
+		color: #000305;
+		font-size: 87.5%; /* Base font size: 14px */
+/*		font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;*/
+		line-height: 1.429;
+		margin: 0;
+		padding: 0;
+		text-align: left;
+	}
+
+a {outline: 0;}
+
+a img {border: 0px; text-decoration: none;}
+
+a:link, a:visited {
+	color: #09c;
+	padding: 0 1px;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #333;
+}
+
+/* Lists */
+ul {
+	list-style: outside disc;
+	margin: 1em 0 1.5em 1.5em;
+}
+ 
+ol {
+	list-style: outside decimal;
+	margin: 1em 0 1.5em 1.5em;
+}
+
+header, section, footer,
+aside, nav, article, figure {
+	display:block;
+}
+
+header, footer{
+    /*height: 6em;*/
+}
+
+footer
+#topFooter{
+	/*width:100%;*/
+	padding-top: .5em;
+	/*height:200px;*/
+	background-color:#3a3a3a;
+	/*overflow:auto*/
+}
+
+footer
+#bottomFooter{
+	/*width:100%;*/
+	/*height:50px;*/
+	background-color:#303030
+}
+
+footer #topFooter
+.container{
+	/*max-width:1200px;*/
+	/*width:80%;*/
+	margin:auto;
+	margin-top:30px;
+	text-align:right;
+	color:#868686
+}
+
+footer #topFooter .container
+nav#footerNav{
+	border-bottom:solid 1px #484848;
+	padding:0px
+0px;
+	display:inline-block
+}
+
+footer #topFooter .container nav#footerNav
+ul{
+	padding:0px;
+	margin:0px;
+	list-style:none
+}
+
+footer #topFooter .container nav#footerNav ul
+li{
+	float:right
+}
+
+footer #topFooter .container nav#footerNav ul li
+a{
+	color:#868686;
+	padding:0px 15px;
+	border-left:solid 1px #484848
+}
+
+footer #topFooter .container nav#footerNav ul li:first-child
+a{
+	padding-right:0px
+}
+
+footer #topFooter .container nav#footerNav ul li:last-child a,footer #topFooter .container nav#footerNav ul li.last-child
+a{
+	border-left:none
+}
+
+footer #topFooter .container nav#footerNav ul li a:hover{
+	color:#F24F00
+}
+
+footer #topFooter .container
+nav#socialNav{
+	border-bottom:solid 1px #484848;
+	padding:0px
+0px;
+	display:inline-block;
+	float:right
+}
+
+footer #topFooter .container nav#socialNav
+ul{
+	padding:0px;
+	margin:0px;
+	list-style:none
+}
+
+footer #topFooter .container nav#socialNav ul
+li{
+	float:right;
+	margin-right:10px
+}
+
+footer #topFooter .container nav#socialNav ul li:child-first{
+	margin-right:0px
+}
+
+footer #topFooter .container nav#socialNav ul li
+a{
+	color:#868686
+}
+
+
+
+footer #topFooter
+#contactInfo{
+	float: right;
+	margin-top:5px
+}
+
+footer #topFooter #contactInfo
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none
+}
+
+footer #topFooter #contactInfo ul
+li{
+	text-align: right;
+	margin-top:10px;
+}
+
+footer #topFooter #contactInfo ul
+li.addressInfo{
+	background-image:url(../img/icon-address.png);
+	background-repeat:no-repeat;
+	background-position:top right;
+	padding-right:30px
+}
+
+footer #topFooter #contactInfo ul
+li.phoneInfo{
+	background-image:url(../img/icon-phone.png);
+	background-repeat:no-repeat;
+	background-position:top right;
+	padding-right:30px
+}
+
+footer #topFooter #contactInfo ul
+li.emailInfo{
+	background-image:url(../img/icon-email-2.png);
+	background-repeat:no-repeat;
+	background-position:top right;
+	padding-right:30px
+}
+
+footer #topFooter .container
+nav#socialNav{
+	border-bottom:solid 1px #484848;
+	padding:0px
+0px 15px;
+	display:inline-block;
+	float:right
+}
+
+footer #topFooter .container nav#socialNav
+ul{
+	padding:0px;
+	margin:0px;
+	list-style:none
+}
+
+footer #topFooter .container nav#socialNav ul
+li{
+	float:right;
+	margin-right:10px
+}
+
+footer #topFooter .container nav#socialNav ul li:child-first{
+	margin-right:0px
+}
+
+footer #topFooter .container nav#socialNav ul li
+a{
+	color:#868686
+}
+
+footer .twitter
+a{
+	width:21px;
+	height:15px;
+	display:block;
+	background-image:url(../img/icon-twitter.png);
+	background-position:right -15px
+}
+
+footer nav#socialNav a:hover{
+	background-position:right top
+}
+
+footer .facebook
+a{
+	width:16px;
+	height:16px;
+	display:block;
+	background-image:url(../img/icon-facebook.png);
+	background-position:right -16px
+}
+
+footer .digg
+a{
+	width:18px;
+	height:14px;
+	display:block;
+	background-image:url(../img/icon-digg.png);
+	background-position:right -14px
+}
+
+footer .vimeo
+a{
+	width:16px;
+	height:15px;
+	display:block;
+	background-image:url(../img/icon-vimeo.png);
+	background-position:right -15px
+}
+
+footer .youtube
+a{
+	width:16px;
+	height:15px;
+	display:block;
+	background-image:url(../img/icon-youtube.png);
+	background-position:right -15px
+}
+
+footer .skype
+a{
+	width:16px;
+	height:16px;
+	display:block;
+	background-image:url(../img/icon-skype.png);
+	background-position:right -16px
+}
+
+footer #bottomFooter
+.container{
+	max-width:1000px;
+	width:80%;
+	margin:auto;
+	text-align:right;
+	color:#868686
+}
+
+footer #bottomFooter .container
+nav{
+	padding-top:15px;
+	display:inline-block
+}
+
+footer #bottomFooter .container nav
+ul{
+	padding:0px;
+	margin:0px;
+	list-style:none
+}
+
+footer #bottomFooter .container nav ul
+li{
+	float:right
+}
+
+footer #bottomFooter .container nav ul li:last-child, footer #bottomFooter .container nav ul li.last-child{
+}
+
+footer #bottomFooter .container nav ul li
+a{
+	color:#868686;
+	padding:0px
+15px;
+	border-left:solid 1px #484848
+}
+
+footer #bottomFooter .container nav ul li:first-child
+a{
+	padding-right:0px
+}
+
+footer #bottomFooter .container nav ul li:last-child a, footer #bottomFooter .container nav ul li.last-child
+a{
+	border-left:none;
+}
+
+footer #bottomFooter .container nav ul li a:hover{
+	color:#F24F00
+}
+
+.clearfix:after{
+	clear:both;
+	content:" ";
+	display:block;
+	font-size:0;
+	height:0;
+	line-height:0;
+	visibility:hidden;
+	width:0
+}
+
+#logoSection{
+    margin-top: 40px;
+	width:100%;
+	height:80px;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	box-shadow:1px 0px 3px #888;
+	-moz-box-shadow:1px 0px 3px #888;
+	-webkit-box-shadow:1px 0px 3px #888;
+	overflow:auto;
+	z-index:101;
+	position:relative
+}
+
+#centerHeader{
+	height:100%;
+	margin:auto;
+	position:relative
+}
+
+.gradientBG1{
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f8f8f8', endColorstr='#e3ded6');
+	background:-webkit-gradient(linear, left top, left bottom,from(#f8f8f8),to(#e3ded6));
+	background:-moz-linear-gradient(top,#f8f8f8,#e3ded6)
+}
+
+.gradientBG2{
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f8f8f8', endColorstr='#d2d2d2');
+	background:-webkit-gradient(linear, left top, left bottom,from(#f8f8f8),to(#d2d2d2));
+	background:-moz-linear-gradient(top,#f8f8f8,#d2d2d2)
+}
+
+#topSearchField{
+	width:200px;
+	height:30px;
+	float:right;
+	margin-top:5px;
+	border:none;
+}
+
+#topSearchField
+#rightBox{
+	width:10px;
+	height:30px;
+	float:right;
+	background:url(../img/searchBox-right.gif)
+}
+
+#topSearchField
+#middleBox{
+	float:right;
+	width:160px;
+	height:30px;
+	background-image:url("../img/searchBox-middle.gif");
+	border:none
+}
+
+#topSearchField #middleBox
+#searchField{
+	width:160px;
+	height:30px;
+	background-color:transparent;
+	border:none;
+	color:#D2D7DD;
+/*	font-family:Tahoma,Geneva,sans-serif;*/
+	font-size:11px
+}
+
+#topSearchField
+#leftBox{
+	width:30px;
+	height:30px;
+	float:left;
+	background:url(../img/searchBox-left.gif);
+	cursor:pointer
+}
+
+#topPage{
+	width:100%;
+	background-image:url(../img/topBar_bg.gif);
+	top:0px;
+	left:0px;
+	position:fixed;
+	z-index:9999;
+	box-shadow:1px 0px 3px #888;
+	-moz-box-shadow:1px 0px 3px #888;
+	-webkit-box-shadow:1px 0px 3px #888;
+	border-bottom:solid 1px #FFF
+}
+
+#topPage
+#topPage_container{
+    background-color: #312
+	width:95%;
+	max-width:1000px;
+	height:40px;
+	margin:auto;
+	position:relative
+}
+
+#topPage
+#currentDate{
+	height:30px;
+	margin-top:5px;
+	float:left;
+	font-family:BMitraRegular,"Times New Roman",Times,serif;
+	font-size:20px;
+	color:#FFF
+}
+
+#sec{
+    padding-top: 5em;
+    padding-bottom: 2em;
+	padding-left: 2em;
+	padding-right: 2em;
+    /*margin: 0 auto;*/
+	/*height: 1800px;*/
+	background-image: url("../img/body_bg2.gif");
+    background-color:#fff;
+}
+
+#sec>section{
+	margin: 0;
+	padding: 0;
+	/*position:relative;*/
+	/*z-index:9;*/
+	/*overflow:auto;*/
+	background-color:#EBEBEB;
+    height: 100%;
+    display: inline-block;
+}
+
+#sec aside{
+    background-color: #be2601;
+     /*width: 12%;*/
+    height: 88%;
+    /*float: right;*/
+    padding-top: 5em;
+    margin-top: 2em;
+    /*margin-right: 2em;*/
+    /*margin-left: auto;*/
+    display: inline-block;
+}
+
+#sec aside nav ul li:first-child{
+    margin-bottom: 4em;
+}
+
+#sec aside nav ul li{
+    margin: 1.5em auto;
+}
+
+#sec aside nav ul li a{
+    font-family: Roya;
+    color: #fff;
+}
+
+#sec>article{
+    background-color: #333;
+     /*width: 19%;*/
+    /*height: 88%;*/
+    /*float: right;*/
+    margin-top: 2em;
+	padding-right: 0;
+	padding-left: 0;
+    /*margin-right: auto;*/
+    /*margin-left: auto;*/
+    display: inline-block;
+}
+
+#art{
+	width: 100%;
+}
+#art a{
+	color: #fff;
+	margin: 0;
+	padding: -1em 0;
+}
+
+#art p{
+	color: #F24F00;
+	margin: 0;
+	padding: -1em 0;
+}
+#art img{
+	margin: 0;
+	padding: -1em 0;
+}
+
+#art section h1{
+    text-align: right;
+    background-color: #242424;
+    display: block;
+    padding-right: 0.5em;
+    color: #fff;
+}
+
+#art section h1 a{
+    color: #fff;
+}
+
+#art section img{
+	/*width: 70%;*/
+    margin: .5em 15%;
+}
+
+#menuSection{
+	width:100%;
+	height:40px;
+	position:relative;
+	border:none;
+	text-align:center;
+	box-shadow:1px 0px 5px #888;
+	-moz-box-shadow:1px 0px 5px #888;
+	-webkit-box-shadow:1px 0px 5px #888;
+	z-index:10;
+	position:relative;
+	display:table;
+	text-align:center;
+	margin-top:0px
+}
+
+#menuSection
+#mainMenuWrapper{
+	width: 100%;
+	height:40px;
+	border:none
+}
+
+#menuSection #mainMenuWrapper
+section.menuItem{
+	width:150px;
+	font-family:BMitraRegular,"Times New Roman",Times,serif;
+	font-size:20px;
+	cursor:pointer
+}
+
+#menuSection #mainMenuWrapper
+section.activeMenuItem{
+	background-color:#FFF;
+	border-bottom:8px solid #FFF
+}
+
+#menuSection #mainMenuWrapper section.inactive:hover{
+	height: 100%;
+	background-color:#F2F2F2
+}
+
+#menuSection #mainMenuWrapper section.menuItem:hover
+section{
+	background-position:center
+}
+
+#menuSection #mainMenuWrapper section.menuItem
+img.txt{
+	height:20px;
+	/*width:auto;*/
+}
+
+#menuSection #mainMenuWrapper section.menuItem
+section{
+	width:12px;
+	height:11px;
+	margin-top:18px;
+	float:left;
+	/*margin-left:10px;*/
+	background-image:url("../img/MenuArrows.gif");
+	background-position:top
+}
+#top_art{
+    /*margin: auto auto;*/
+    padding: .5em .5em;
+    background-color: #fff
+}
+
+#s h4{
+    text-align: right;
+    padding: 0 3em;
+}
+
+#sec_news section{
+    margin-top: .5em;
+    float: right;
+    width: 100%;
+    background-color: #fff;
+}
+
+#sec_news section img{
+    float: right;
+    margin: .5em;
+    width: 20%;
+    height: 100%;
+}
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

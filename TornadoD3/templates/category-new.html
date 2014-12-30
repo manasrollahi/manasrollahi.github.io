@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head><title>Poem Maker Pro</title>
+<link href='{{ static_url("css/bootstrap.css") }}' rel="stylesheet">
+<link href='{{ static_url("css/bootstrap-theme.css") }}' rel="stylesheet">
+    <link href='{{ static_url("css/basic.css") }}' rel="stylesheet">
+
+</head>
+<body style="direction:rtl">
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2 ">
+        <h3 class="Yekan" style="color:#2233dd">گروه های خبری : </h3>
+          <form method="post" action="/category/new">
+
+          <div class="form-group">
+            <label for="category-name" class="control-label Mitra" >نام گروه :</label>
+            <input type="text" name="category-name" id="category-name" value="" placeholder="نام گروه را وارد کنید !"      class="form-control" />
+
+          </div>
+
+
+        <input type="submit" class="btn btn-primary Yekan" value="ذخیره تغییرات" >
+          </form>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="editModal"  role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+         <form method="post" action="/category">
+      <div class="modal-header">
+        <button id="editBtn" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title Yekan" id="myModalLabel">ویرایش گروه های خبری</h4>
+      </div>
+      <div class="modal-body">
+
+          <div class="form-group">
+            <label for="category-name" class="control-label Mitra" >نام گروه :</label>
+            <input type="text" name="category-name" id="category-name" class="form-control" />
+
+          </div>
+
+        <input type="hidden" name="category-id" id="category-id" class="form-control" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default Yekan" data-dismiss="modal">بستن </button>
+        <input type="submit" class="btn btn-primary Yekan" value="ذخیره تغییرات" >
+      </div>
+
+              </form>
+    </div>
+  </div>
+</div>
+<script src="{{static_url('js/jquery.js')}}"></script>
+<script src="{{static_url('js/bootstrap.js')}}"></script>
+
+</body>
+</html>

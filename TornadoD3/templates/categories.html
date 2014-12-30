@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head><title>Poem Maker Pro</title>
+<link href='{{ static_url("css/bootstrap.css") }}' rel="stylesheet">
+<link href='{{ static_url("css/bootstrap-theme.css") }}' rel="stylesheet">
+    <link href='{{ static_url("css/basic.css") }}' rel="stylesheet">
+
+</head>
+<body style="direction:rtl">
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2 ">
+        <h3 class="Yekan" style="color:#2233dd">گروه های خبری : </h3>
+        <a class="btn btn-lg btn-success Mitra pull-left" href="/category/new">ایجاد گروه جدید</a>
+        <br/>      <br/>      <br/>
+        <table class="table table-striped">
+       {% for category  in categories %}
+        <tr class="Mitra">
+        <td>{{category.id}} </td>
+
+        <td>{{category.name}}</td>
+
+        <td> <a class="btn" href="/category/edit/{{category.id}}" > <span class="glyphicon glyphicon-pencil"></span>&nbsp;&nbsp; ویرایش </button></td>
+         <td> <a class="btn" href="/category/delete/{{category.id}}" > <span class="glyphicon glyphicon-trash"></span>&nbsp;&nbsp; حذف </button></td>
+        </tr>
+       {% end %}
+       </table>
+    </div>
+</div>
+
+<script src="{{static_url('js/jquery.js')}}"></script>
+<script src="{{static_url('js/bootstrap.js')}}"></script>
+
+</body>
+</html>
