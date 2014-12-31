@@ -2,60 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61e60bb-79b2-4e14-889e-9c840c6881d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Asre-Yakhbandan-8-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Chaaghi-4-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Cinema.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Fajr33-Logo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Festival.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Gallery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/HHNews.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/IMG15550937.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/MenuArrows.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Mihman-Darim-New-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Mihman-daarim-55x55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Mihman-daarim.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/MihmanDarim-55x55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Moshref-Be-Kooche-4-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Navid-Jamshid-9-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/Neshast-Maryam-7-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/News.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/SCOM.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/SPS.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/SourehCinema_Logo_Text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/akharin-setareh-shab1-55x55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/asgarpoor2-55x55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/behnoosh-tabatabayee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/body_bg2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/chand-metr-mokaab1-55x55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/farda-zhenev.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/hasan-shokoohi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/header.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/hosein-shahabi1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-address.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-digg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-email-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-vimeo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/icon-youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/kheradmand1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/mahmood-azizi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/mihman-darim11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/neshast-mihman1-300x180.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/nik-bin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/parviz1-55x55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/searchBox-left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/searchBox-middle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/searchBox-right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/searchMagnet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TornadoD3/static/img/topBar_bg.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TornadoD3/templates/index.html" afterPath="$PROJECT_DIR$/TornadoD3/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Koodak.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Koodak.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Mehr.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Mehr.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Mitra.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Mitra.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roya.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roya.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RoyaBold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RoyaBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Zar.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Zar.ttf" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\Tornado.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\other.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\testrunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\Handlers\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\Handlers\category__handler.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\Handlers\index_handler.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\start.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\basic.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\stylus\basic.styl" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\stylus\dropzone.styl" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\MitraWeb-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Asre-Yakhbandan-8-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Chaaghi-4-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Cinema.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Fajr33-Logo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Festival.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Gallery.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\HHNews.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Home.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\IMG15550937.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\MenuArrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Mihman-Darim-New-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Mihman-daarim-55x55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Mihman-daarim.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\MihmanDarim-55x55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Moshref-Be-Kooche-4-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Navid-Jamshid-9-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Neshast-Maryam-7-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\News.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\SCOM.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\SPS.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\SourehCinema_Logo_Text.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\akharin-setareh-shab1-55x55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\asgarpoor2-55x55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\behnoosh-tabatabayee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\body_bg2.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\chand-metr-mokaab1-55x55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\farda-zhenev.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\hasan-shokoohi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\header.JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\hosein-shahabi1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-address.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-digg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-email-2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-skype.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-vimeo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\kheradmand1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\mahmood-azizi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\mihman-darim11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\neshast-mihman1-300x180.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\nik-bin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\parviz1-55x55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\searchBox-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\searchBox-middle.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\searchBox-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\searchMagnet.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\topBar_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\jquery-2.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\vendor\jquery-1.10.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\vendor\modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\templates\categories.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\templates\category-edit.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\templates\category-new.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\templates\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\urls.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\Yekan.otf" afterPath="$PROJECT_DIR$/fonts/Yekan.otf" />
+      <change type="MOVED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\Yekan.ttf" afterPath="$PROJECT_DIR$/fonts/Yekan.ttf" />
     </list>
     <ignored path="Mohandesi Internet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,42 +141,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TornadoD3/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TornadoD3/start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="category-new.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TornadoD3/templates/category-new.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1122">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TornadoD3/templates/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44262296" vertical-offset="6064" max-vertical-offset="7837">
-              <caret line="371" column="26" selection-start-line="371" selection-start-column="26" selection-end-line="371" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="1.2668978" vertical-offset="204" max-vertical-offset="1173">
+              <caret line="82" column="128" selection-start-line="82" selection-start-column="128" selection-end-line="82" selection-end-column="128" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#1;n#section#0;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#table#0;n#section#1;n#section#1;n#section#0;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#section#1;n#section#0;n#section#1;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#section#1;n#section#0;n#section#1;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,11 +170,11 @@
         <option value="$PROJECT_DIR$/M_I.html" />
         <option value="$PROJECT_DIR$/Tamrin 1/css/main.css" />
         <option value="$PROJECT_DIR$/Tamrin 2/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Tamrin 2/css/main.css" />
         <option value="$PROJECT_DIR$/Tamrin 2/index.html" />
         <option value="$PROJECT_DIR$/TornadoD3/models.py" />
         <option value="$PROJECT_DIR$/TornadoD3/templates/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -193,20 +228,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mohandesi Internet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mohandesi Internet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TornadoD3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -221,10 +242,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mohandesi Internet" />
+      <recent name="D:\Mohandesi Internet\TornadoD3\static\fonts" />
       <recent name="D:\Mohandesi Internet\TornadoD3\static" />
       <recent name="D:\Mohandesi Internet\TornadoD3\static\js" />
       <recent name="D:\Mohandesi Internet\TornadoD3\static\css" />
-      <recent name="D:\Mohandesi Internet\TornadoD3\templates" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -532,28 +554,34 @@
       <option name="project" value="LOCAL" />
       <updated>1419965159856</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="set index">
+      <created>1420003841598</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1420003841598</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12884334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12884334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -582,45 +610,14 @@
     <MESSAGE value="article" />
     <MESSAGE value="img" />
     <MESSAGE value="tod3" />
-    <option name="LAST_COMMIT_MESSAGE" value="tod3" />
+    <MESSAGE value="set index" />
+    <option name="LAST_COMMIT_MESSAGE" value="set index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TornadoD3/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="7837">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="697">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7837">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tamrin 2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3332">
@@ -841,13 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54745764" vertical-offset="0" max-vertical-offset="731">
-          <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Term 1 Napaivaste/dist/k2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="7.8461537" vertical-offset="204" max-vertical-offset="1122">
@@ -855,71 +845,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/static/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/Tamrin 2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9061">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="6175" max-vertical-offset="7837">
+          <caret line="374" column="12" selection-start-line="374" selection-start-column="10" selection-end-line="374" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tamrin 2/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7516234" vertical-offset="4195" max-vertical-offset="8721">
-          <caret line="647" column="20" selection-start-line="647" selection-start-column="20" selection-end-line="647" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/static/js/vendor/jquery-1.10.2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tamrin 2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.934142" vertical-offset="330" max-vertical-offset="3332">
-          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="11602" max-vertical-offset="16150">
+          <caret line="694" column="8" selection-start-line="694" selection-start-column="4" selection-end-line="694" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/start.py">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/templates/category-new.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="4802" max-vertical-offset="16150">
-          <caret line="294" column="24" selection-start-line="294" selection-start-column="21" selection-end-line="294" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TornadoD3/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44262296" vertical-offset="6064" max-vertical-offset="7837">
-          <caret line="371" column="26" selection-start-line="371" selection-start-column="26" selection-end-line="371" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="1.2668978" vertical-offset="204" max-vertical-offset="1173">
+          <caret line="82" column="128" selection-start-line="82" selection-start-column="128" selection-end-line="82" selection-end-column="128" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#section#0;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#table#0;n#section#1;n#section#1;n#section#0;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#section#1;n#section#0;n#section#1;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#section#1;n#section#0;n#section#1;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
