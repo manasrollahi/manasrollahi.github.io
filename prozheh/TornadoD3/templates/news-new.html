@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head><title> ورود خبر جدید </title>
+<link href='{{ static_url("css/bootstrap.css") }}' rel="stylesheet">
+<link href='{{ static_url("css/bootstrap-theme.css") }}' rel="stylesheet">
+    <link href='{{ static_url("css/basic.css") }}' rel="stylesheet">
+<script>
+
+</script>
+
+</head>
+<body style="direction:rtl">
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2 ">
+        <h3 class="Yekan" style="color:#2233dd"> خبر جدید : </h3>
+          <form method="post" action="/news/new">
+
+              <div class="form-group">
+                  <label for="news-title" class="control-label Mitra" >عنوان خبر :</label>
+                  <input type="text" name="news-title" id="news-title" value="" placeholder=" عنوان خبر را وارد کنید.....! " class="form-control" />
+              </div>
+
+              <div class="form-group">
+                  <label for="news-body" class="control-label Mitra" >متن خبر :</label>
+                  <input type="text"  name="news-body" id="news-body" value="" placeholder="متن خبر را وارد کنید.....! " class="form-control" />
+              </div>
+
+              <!--<div class="form-group">-->
+                  <!--<label for="news-date" class="control-label Mitra" >تاریخ انتشار :</label>-->
+                  <!--<input type="date" name="news-date" id="news-date" value="" placeholder="" class="form-control"  />-->
+              <!--</div>-->
+
+              <div class="form-group">
+                  <label for="news-img" class="control-label Mitra" >ارسال عکس خبر :</label>
+                  <input type="file" name="news-img" id="news-img" value="" class="form-control"/>
+              </div>
+
+
+              <input type="hidden" name="news-id" id="news-id" class="form-control" />
+
+              <input type="submit" class="btn btn-primary Yekan" value="ذخیره تغییرات" >
+          </form>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> اخبار </title>
+    <link href='{{ static_url("css/bootstrap.css") }}' rel="stylesheet">
+    <link href='{{ static_url("css/bootstrap-theme.css") }}' rel="stylesheet">
+    <link href='{{ static_url("css/basic.css") }}' rel="stylesheet">
+</head>
+<body class="container">
+<section class="row">&nbsp;</section>
+<section class="row">&nbsp;</section>
+<section class="row" style="direction: rtl">
+    <section class="col-md-8 col-md-offset-2">
+        <h3 class="Yekan" style="color:#2233dd"> اخبار </h3>
+        <!--<form method="post" action="/news/new">-->
+              <!--<input type="hidden" name="id" id="id" value={fn} class="form-control" />-->
+
+              <!--<input type="submit" class="btn btn-primary Yekan" value="ورود خبر جدید" >-->
+          <!--</form>-->
+        <a class="btn btn-lg btn-success Mitra" dir="rtl" href="/news/new"> ورود خبر جدید </a>
+        <a class="btn btn-lg btn-success Mitra" dir="rtl" href="/logout"> خروج </a>
+        <br/>      <br/>      <br/>
+        {%for n in news%}
+        <section class="row" style="height: 200px; text-align: center;">
+         <section class="col-md-2">
+             <a class="btn" href="/news/delete/{{n.id}}" > <span class="glyphicon glyphicon-trash"></span>&nbsp;&nbsp; حذف </button></a>
+         </section>
+            <section class="col-md-2">
+                <a class="btn" href="/news/edit/{{n.id}}" > <span class="glyphicon glyphicon-pencil"></span>&nbsp;&nbsp; ویرایش </abutton></a>
+            </section>
+            <section class="col-md-4">
+                <h3>{{n.title}}</h3>
+            </section>
+            <section class="col-md-4">
+                <img src=../static/img/{{n.img}}>
+            </section>
+        </section>
+        {%end%}
+    </section>
+</section>
+
+</body>
+</html>

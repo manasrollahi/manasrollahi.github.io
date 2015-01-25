@@ -2,117 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61e60bb-79b2-4e14-889e-9c840c6881d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Koodak.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Koodak.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Mehr.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Mehr.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Mitra.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Mitra.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roya.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roya.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RoyaBold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RoyaBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Zar.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Zar.ttf" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\Tornado.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\other.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\testrunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\Handlers\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\Handlers\category__handler.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\Handlers\index_handler.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\models.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\start.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\basic.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\stylus\basic.styl" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\css\stylus\dropzone.styl" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\MitraWeb-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Asre-Yakhbandan-8-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Chaaghi-4-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Cinema.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Fajr33-Logo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Festival.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Gallery.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\HHNews.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Home.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\IMG15550937.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\MenuArrows.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Mihman-Darim-New-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Mihman-daarim-55x55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Mihman-daarim.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\MihmanDarim-55x55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Moshref-Be-Kooche-4-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Navid-Jamshid-9-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\Neshast-Maryam-7-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\News.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\SCOM.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\SPS.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\SourehCinema_Logo_Text.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\akharin-setareh-shab1-55x55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\asgarpoor2-55x55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\behnoosh-tabatabayee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\bg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\body_bg2.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\chand-metr-mokaab1-55x55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\farda-zhenev.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\hasan-shokoohi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\header.JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\hosein-shahabi1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-address.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-digg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-email-2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-phone.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-skype.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\icon-youtube.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\kheradmand1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\mahmood-azizi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\mihman-darim11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\neshast-mihman1-300x180.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\nik-bin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\parviz1-55x55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\searchBox-left.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\searchBox-middle.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\searchBox-right.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\searchMagnet.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\img\topBar_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\vendor\jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\static\js\vendor\modernizr-2.6.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\templates\categories.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\templates\category-edit.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\templates\category-new.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\templates\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mohandesi Internet\TornadoD3\urls.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\Yekan.otf" afterPath="$PROJECT_DIR$/fonts/Yekan.otf" />
-      <change type="MOVED" beforePath="D:\Mohandesi Internet\TornadoD3\static\fonts\Yekan.ttf" afterPath="$PROJECT_DIR$/fonts/Yekan.ttf" />
     </list>
     <ignored path="Mohandesi Internet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -560,7 +450,13 @@
       <option name="project" value="LOCAL" />
       <updated>1420003841598</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="del tor">
+      <created>1420010302415</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1420010302415</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -611,7 +507,8 @@
     <MESSAGE value="img" />
     <MESSAGE value="tod3" />
     <MESSAGE value="set index" />
-    <option name="LAST_COMMIT_MESSAGE" value="set index" />
+    <MESSAGE value="del tor" />
+    <option name="LAST_COMMIT_MESSAGE" value="del tor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
