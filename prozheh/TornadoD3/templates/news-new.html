@@ -5,8 +5,11 @@
 <link href='{{ static_url("css/bootstrap-theme.css") }}' rel="stylesheet">
     <link href='{{ static_url("css/basic.css") }}' rel="stylesheet">
 <script>
-
-</script>
+//function myFunction() {
+//    var x = document.getElementById("news-img").type;
+//    document.getElementById('news-img').innerHTML = x;
+//}
+    </script>
 
 </head>
 <body style="direction:rtl">
@@ -15,7 +18,7 @@
 <div class="row">
     <div class="col-md-8 col-md-offset-2 ">
         <h3 class="Yekan" style="color:#2233dd"> خبر جدید : </h3>
-          <form method="post" action="/news/new">
+          <form enctype="multipart/form-data" method="post" action="/news/new">
 
               <div class="form-group">
                   <label for="news-title" class="control-label Mitra" >عنوان خبر :</label>
@@ -31,11 +34,12 @@
                   <!--<label for="news-date" class="control-label Mitra" >تاریخ انتشار :</label>-->
                   <!--<input type="date" name="news-date" id="news-date" value="" placeholder="" class="form-control"  />-->
               <!--</div>-->
-
-              <div class="form-group">
+                  <div class="form-group">
                   <label for="news-img" class="control-label Mitra" >ارسال عکس خبر :</label>
                   <input type="file" name="news-img" id="news-img" value="" class="form-control"/>
-              </div>
+                  </div>
+
+
 
 
               <input type="hidden" name="news-id" id="news-id" class="form-control" />

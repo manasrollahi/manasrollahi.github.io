@@ -21,7 +21,7 @@
         <a class="btn btn-lg btn-success Mitra" dir="rtl" href="/logout"> خروج </a>
         <br/>      <br/>      <br/>
         {%for n in news%}
-        <section class="row" style="height: 200px; text-align: center;">
+        <section class="row" style="height: 100px; text-align: center;">
          <section class="col-md-2">
              <a class="btn" href="/news/delete/{{n.id}}" > <span class="glyphicon glyphicon-trash"></span>&nbsp;&nbsp; حذف </button></a>
          </section>
@@ -32,7 +32,7 @@
                 <h3>{{n.title}}</h3>
             </section>
             <section class="col-md-4">
-                <img src=../static/img/{{n.img}}>
+                <img class="img-thumbnail img-circle" style="width: 100px" src=../static/img/{{n.img}}>
             </section>
         </section>
         {%end%}

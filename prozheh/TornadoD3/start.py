@@ -7,7 +7,7 @@ from pycket.session import SessionManager
 from tornado.options import define, options
 from urls import urlList
 
-define("port", default=8090, help="run on the given port", type=int)
+define("port", default=8190, help="run on the given port", type=int)
 
 # Your app launch code here..
 class MedxApplication(tornado.web.Application):
